@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F5B822D-E019-4A0F-A3D6-79D29E130BEF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF9E2278-E75C-4339-AEC1-2B74FD99BB4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F52E4A2B-AF21-4CD4-8846-8B2109F87DF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FA23E6E-6039-4284-84C7-2B2030069FE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5883CC5A-4A94-4377-980A-08176371FB37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C69B573C-2779-42E9-965C-C2C416CFEA55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E243C574-47E9-4FA9-8324-39A13C7C4F61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/VerifyOtp/ViewModel/OTPViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "verifyOTP(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB6E31DA-301B-4F7A-99F5-2EC168101F42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/Register/ViewModel/RegistrationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "registerUser(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF0E53DC-A4A7-46E3-9E80-A8F68B042A2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/Register/ViewModel/RegistrationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "registerUser(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0AF2D6F-060A-44F1-A534-4E79FE87976A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "sendRegistrationData(firstName:lastName:contact:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A665AFE-3E7E-4BC7-A5F5-A1907E7AB7B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "sendRegistrationData(firstName:lastName:contact:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A665AFE-3E7E-4BC7-A5F5-A1907E7AB7B3 - 3cfac746df2db28b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RegistrationApp.RegistrationViewController.sendRegistrationData(firstName: Swift.String, lastName: Swift.String, contact: Swift.String) -&gt; ()"
+                  moduleName = "RegistrationApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvajalgaonkar/Documents/App/Login/RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105">
+               </Location>
+               <Location
+                  uuid = "1A665AFE-3E7E-4BC7-A5F5-A1907E7AB7B3 - 8f99a1d4da3819f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; () in RegistrationApp.RegistrationViewController.sendRegistrationData(firstName: Swift.String, lastName: Swift.String, contact: Swift.String) -&gt; ()"
+                  moduleName = "RegistrationApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvajalgaonkar/Documents/App/Login/RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105">
+               </Location>
+               <Location
+                  uuid = "1A665AFE-3E7E-4BC7-A5F5-A1907E7AB7B3 - 98d0fe93828f4949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Bool, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; () in RegistrationApp.RegistrationViewController.sendRegistrationData(firstName: Swift.String, lastName: Swift.String, contact: Swift.String) -&gt; ()"
+                  moduleName = "RegistrationApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvajalgaonkar/Documents/App/Login/RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A94A5EA6-528A-46E9-9705-EA1C5DCE6A64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegistrationApp/Modules/Register/ViewController/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "sendRegistrationData(firstName:lastName:contact:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
